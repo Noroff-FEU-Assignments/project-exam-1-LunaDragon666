@@ -20,6 +20,10 @@ HTML/CSS.
 -	Report with link to completed microsite, as well as a link to your Git repository.
 -	ZIP file containing all web files (HTML, CSS, JS).
 
+NB: formats other than PDF (Word, RTF, etc) will not be accepted. The file should be named using the
+standard date-assignment-name format. Failure to comply to both of these requirements will result
+in the assignment not being evaluated
+
 ### The project exam should include the following:
 #### HTML 
 -	Semantic
